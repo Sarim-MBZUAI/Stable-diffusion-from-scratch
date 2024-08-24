@@ -1,3 +1,3 @@
 # Stable-diffusion-from-scratch
 
-from umar hassan tutorial
+from umar jamil tutorial
